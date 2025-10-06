@@ -1,0 +1,29 @@
+# Streamlit for app UI
+streamlit>=1.30.0
+
+# Data handling
+pandas>=2.0.0
+
+# PDF generation
+fpdf>=1.7.2
+
+# News fetching
+gnews>=0.2.8
+
+# Environment variables
+python-dotenv>=1.0.0
+
+# LangChain
+langchain>=0.1.0
+
+# Groq LLM integration
+langchain-groq>=0.0.5
+
+# Optional: For AI summaries and prompts
+pydantic>=2.4.0
+
+# For date & time
+python-dateutil>=2.9.2
+
+# Optional: HTTP requests (if needed by Groq or GNews)
+requests>=2.31.0
